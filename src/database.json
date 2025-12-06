@@ -1,9 +1,10 @@
 {
   "tokens": {},
   "lastActive": {},
-  "admins": [],
-  "premium": [],
-  "adsMessage": "",
+  "admins": [
+    "6358090699"
+  ],
+  "adsMessage": "🔥 *PikaShort SPECIAL!*  \nEarn More With SmallshortURL!  \nVisit 👉 https://smallshorturl.myvippanel.shop",
   "headerText": "not available now",
   "footerText": "not available now",
   "schedule": {
@@ -15,5 +16,6 @@
     "totalDelivered": 0,
     "totalFailed": 0,
     "history": []
-  }
+  },
+  "premium": []
 }
