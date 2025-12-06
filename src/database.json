@@ -1,0 +1,19 @@
+{
+  "tokens": {},
+  "lastActive": {},
+  "admins": [],
+  "premium": [],
+  "adsMessage": "",
+  "headerText": "not available now",
+  "footerText": "not available now",
+  "schedule": {
+    "enabled": false,
+    "time": null,
+    "timezone": "Asia/Kolkata"
+  },
+  "adStats": {
+    "totalDelivered": 0,
+    "totalFailed": 0,
+    "history": []
+  }
+}
